@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Eryk Nejfert\Desktop\TicTacToe 4x3\TicTacToe 4x3.jar</jar>
+  <outfile>C:\Users\Eryk Nejfert\Desktop\TicTacToe 4x3\TicTacToe 4x3.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Eryk Nejfert\Desktop\TicTacToe 4x3\src\icon.ico</icon>
+  <jre>
+    <path>jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>jdkOnly</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <maxHeapPercent>10</maxHeapPercent>
+    <opt>--module-path &quot;C:\Program Files\All Java Files\SDK (JavaFX)\lib&quot; --add-modules javafx.controls,javafx.fxml</opt>
+  </jre>
+</launch4jConfig>
